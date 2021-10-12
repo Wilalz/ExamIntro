@@ -1,0 +1,1 @@
+El comando cp nos sirve basicamente para copiar un archivo dentro de un directorio
